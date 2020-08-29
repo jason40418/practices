@@ -1,0 +1,11 @@
+# Object Files
+*.obj
+
+# Used by linker
+*.ilk
+
+# Debug: Program Database Files
+*.pdb
+
+# Executable Files
+*.exe
